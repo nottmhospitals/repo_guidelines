@@ -1,6 +1,7 @@
 # Open Code Checklist
 To ensure that the code we publish is appropriate, clear and reusable we require a set way of working when pushing code to private and public repositories.  
 It is difficult to set any precise but generic standards and so we ask that the following checklist is considered with mandatory items filled out. 
+In case of a breach, please refer to the [action plan](https://github.com/nottmhospitals/repo_guidelines/blob/main/Breach_Actions_Plan.md) outlined in this repo.
 
 ## When publishing your code you need to make sure:
   
