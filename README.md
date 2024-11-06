@@ -16,7 +16,7 @@
  - Parts of code containing business/analytical logic **must** be covered by unit tests to provide assurance that the code works in the way that it says it works
  - Code **must** be free of known malicious dependencies
 
-Additionally, Here is a list of mandatory items to include in any organisation repositories (extracted from [NHS england way of working](https://github.com/nhsengland/github-WoW)):
+Additionally, Here is a list of mandatory items to include in any organisation repositories (modified from [NHS england way of working](https://github.com/nhsengland/github-WoW)):
 
 ### Readme
 Every repo should have a README which as a minimum specifies clearly the purpose of the repository.  Ideally this README file would be concise and include additional components covering ownership, development status, context, support for the user and how to contribute to the code. An ideal example readme can be seen [here](https://github.com/othneildrew/Best-README-Template/blob/master/BLANK_README.md)
@@ -33,19 +33,12 @@ Every Repo should have an apporpiate associated license and copyright notice.  T
 | [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html) | To prevent proprietary or closed re-use of code  |
 | [Open Government 3.0 Licence](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) | Default licence for all documentation  |
 
-## Recommendations for Github repositories
-
-Here is a list of recommended content to include for project repositories to enable best practice and contributions.
-
 ### Changelog
 A markdown file in your repository that tracks noteable changes to the code.  Recommendation is to use [semantic versioning](https://semver.org/spec/v2.0.0.html) which reflects `Breaking changes`, `New features`, and
 `Fixes` clearly. 
 
 ### Contributing file
 A piece of text that encourages contributions in the forms of raising new issues and submitting pull requests.  Include reference to the code of conduct and any guidance about branching strategy or style of commit messages to help contributions be made is a standardised way. 
-
-### .gitignore
-A file which lists any local file types that should be ignored when a push is made from a local clone back to Github.  This helps protect data files and large outputs from being accidentally uploaded but shouldn't be relied on as the only protection.
 
 ### model card
 When your code contains a piece of code which someone else may use or reproduce then it's best to make clear the intended use for the code and any known limitations.  One way to do this is to use a model card stating:
