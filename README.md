@@ -37,10 +37,10 @@ Every Repo should have an apporpiate associated license and copyright notice.  T
 A markdown file in your repository that tracks noteable changes to the code.  Recommendation is to use [semantic versioning](https://semver.org/spec/v2.0.0.html) which reflects `Breaking changes`, `New features`, and
 `Fixes` clearly. 
 
-### Contributing file
+### Contributing File
 A piece of text that encourages contributions in the forms of raising new issues and submitting pull requests.  Include reference to the code of conduct and any guidance about branching strategy or style of commit messages to help contributions be made is a standardised way. 
 
-### model card
+### Model Card
 When your code contains a piece of code which someone else may use or reproduce then it's best to make clear the intended use for the code and any known limitations.  One way to do this is to use a model card stating:
 - model details 
 - Intended use
@@ -49,9 +49,9 @@ When your code contains a piece of code which someone else may use or reproduce 
 - Performance and Limitations
 - Notes to the user
 
-### templates for pull requests
+### Templates For Pull Requests
 to support contributions being submitted in a standardised form you can include a pull request template for fixes and new features.  This will then help contributors know what information to include to support these requests.
 
-### contact
+### Contact
 Contact details in the README are useful but this often depends on an appropriate shared mailbox being avilable.
 
