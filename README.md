@@ -5,7 +5,7 @@
  - Registered users must belong to Nottingham University Hospitals NHS Trust or be approved external collaborators.
  - They must use their nhs.net email and  have set up a 2 factor authorisation. 
  - If users leave the organisation, or are inactive after 6 months, they will be converted to outside collaborator, and after 6 more months removed. 
- - Users will be respectful of other users and follow good online etiquette.
+ - Users will be respectful of other users and follow [code of conduct](https://github.com/nottmhospitals/user_and_repository_guidelines/blob/main/code_of_conduct.md).
 
 ## Repository Guidelines
 
