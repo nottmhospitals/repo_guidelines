@@ -5,14 +5,14 @@
  - Registered users must belong to Nottingham University Hospitals NHS Trust or be approved external collaborators.
  - They must use their nhs.net email and  have set up a 2 factor authorisation. 
  - If users leave the organisation, or are inactive after 6 months, they will be converted to outside collaborator, and after 6 more months removed. 
- - Users will be respectful of other users and follow [code of conduct](https://github.com/nottmhospitals/user_and_repository_guidelines/blob/main/code_of_conduct.md).
+ - Users will be respectful of other users and follow [code of conduct](https://github.com/nottmhospitals/user_and_repository_guidelines/blob/main/code_of_conduct.md) extracted from [here](https://github.com/nhs-r-community/NHSRdatasets/blob/main/CODE_OF_CONDUCT.md).
 
 ## Repository Guidelines
 
  - Repositories **must** be set to private until approved by an owner of the organisation repository.
- - The first **commit** must be the [.gitignore file included in this repository](https://github.com/nottmhospitals/user_and_repository_guidelines/blob/main/.gitignore)
- - Users **must** follow the [open code checklist](https://github.com/nottmhospitals/user_and_repository_guidelines/blob/main/Open%20Code%20Checklist.md)
- - In case of a data Breach, users **must** follow the [breach action steps](https://github.com/nottmhospitals/user_and_repository_guidelines/blob/main/Breach_Actions_Plan.md)
+ - The first **commit** must be the [.gitignore file included in this repository](https://github.com/nottmhospitals/user_and_repository_guidelines/blob/main/.gitignore) extracted from [here](https://github.com/Birmingham-and-Solihull-ICS/BSOLproject/blob/main/.gitignore)
+ - Users **must** follow the [open code checklist](https://github.com/nottmhospitals/user_and_repository_guidelines/blob/main/Open%20Code%20Checklist.md) extracted from [here](https://github.com/nhsengland/github-WoW/blob/main/docs/Open_Code_Checklist.md)
+ - In case of a data Breach, users **must** follow the [breach action steps](https://github.com/nottmhospitals/user_and_repository_guidelines/blob/main/Breach_Actions_Plan.md) extracted from [here](https://tools.nhsrcommunity.com/technical-git.html#removing-sensitive-and-patient-identifiable-information)
  - Parts of code containing business/analytical logic **must** be covered by unit tests to provide assurance that the code works in the way that it says it works
  - Code **must** be free of known malicious dependencies
 
